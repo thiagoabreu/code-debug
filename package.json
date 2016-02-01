@@ -31,7 +31,8 @@
 						"objective-c",
 						"fortan",
 						"pascal",
-						"ada"
+						"ada",
+						"vala"
 					]
 				},
 				"configurationAttributes": {
